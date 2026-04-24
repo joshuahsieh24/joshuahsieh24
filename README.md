@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Joshua Hsieh
 
-<!--
-**joshuahsieh24/joshuahsieh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build thoughtful software with a focus on full-stack development, product-minded UI, and projects that solve real problems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building projects across web apps, AI tools, and student-led engineering teams
+- Interested in software engineering roles where I can ship, learn fast, and grow with strong teams
+- Focused on writing clear code, improving user experience, and turning ideas into working products
+
+## Tech I Use
+
+[![Tech Stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,java,git,vercel)](https://skillicons.dev)
