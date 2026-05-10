@@ -8,8 +8,7 @@ I build thoughtful software with a focus on full-stack development, product-mind
 
 ## Typing Speed
 
-<a href="https://monkeytype.com/profile/joshuahsieh24">
-  <img src="https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/monkeytype-readme/monkeytype-readme-lbpb.svg" alt="MonkeyType stats" />
-</a>
+<!-- monkeytype-readme:start -->
+<!-- monkeytype-readme:end -->
 
 In my free time I love exploring the world, trying new food, and playing sports with friends!

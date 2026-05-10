@@ -1,25 +1,21 @@
-name: generate monkeytype readme svg
+name: update monkeytype stats
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  download-svg:
+  update-stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - uses: vnphanquang/monkeytype-readme@main
         with:
-          node-version: "20.x"
-
-      - name: Generate Monkeytype Readme SVG
-        uses: monkeytype-hub/monkeytype-readme@v1.0.0
-        with:
-          username: joshuahsieh24
-          themes: midnight
-          target-branch: monkeytype-readme
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
+          mode: time
+          mode2: '60'
+          style: flat-square
+          label: monkeytype
