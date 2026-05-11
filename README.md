@@ -8,8 +8,6 @@ I build thoughtful software with a focus on full-stack development, product-mind
 
 ## Typing Speed
 
-<!-- monkeytype-readme:start -->
-[![MonkeyType](https://monkeytypereadme.vercel.app/api/card)](https://monkeytype.com/profile/joshuahsieh24)
-<!-- monkeytype-readme:end -->
+[![MonkeyType](https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/monkeytype-card/monkeytype-card.svg)](https://monkeytype.com/profile/joshuahsieh24)
 
 In my free time I love exploring the world, trying new food, and playing sports with friends!
