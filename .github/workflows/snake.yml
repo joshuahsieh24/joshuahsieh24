@@ -23,6 +23,11 @@ jobs:
           outputs: |
             dist/github-snake-tokyo.svg?palette=github-dark&color_snake=#7aa2f7&color_dots=#1a1b26,#414868,#7aa2f7,#9ece6a,#bb9af7
 
+      - name: Play once and stop (no loop)
+        # The snk SVG loops via CSS `... infinite`. Swap it for a single pass
+        # that holds the final frame, so the snake runs through once and parks.
+        run: sed -i 's/ infinite/ 1 forwards/g' dist/github-snake-tokyo.svg
+
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:

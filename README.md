@@ -8,6 +8,8 @@ I build thoughtful software — full-stack, product-minded UI, and projects that
 When I'm away from the keyboard: exploring the world, chasing good food, and sports with friends. 🌏🍜⚽
 </p>
 
+<img src="https://flagcdn.com/w40/tw.png" height="20" alt="Taiwan" />&nbsp;<sub><b>Roots in Taiwan</b></sub>
+
 <a href="mailto:joshua.hsieh@sjsu.edu"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
 <a href="https://github.com/joshuahsieh24"><img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=BB9AF7" alt="GitHub"/></a>
 <!-- Add your socials by uncommenting + filling these:
@@ -51,18 +53,6 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 </div>
 -->
 
-<!-- ════════════════════════ SNAKE ════════════════════════ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/output/github-snake-tokyo.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/output/github-snake-tokyo.svg" />
-</picture>
-
-</div>
-
 <!-- ════════════════════════ MONKEYTYPE ════════════════════════ -->
 ## ⌨️ Typing Speed
 
@@ -77,6 +67,16 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote of the day" />
 
-<sub>⚡ Tokyo Night · auto-updating cards · built with care</sub>
+</div>
+
+<!-- ════════════════════════ SNAKE (bottom) ════════════════════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/output/github-snake-tokyo.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/output/github-snake-tokyo.svg" />
+</picture>
+
+<sub>⚡ Tokyo Night · auto-updating cards · 🇹🇼</sub>
 
 </div>
