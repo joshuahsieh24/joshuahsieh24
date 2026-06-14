@@ -26,7 +26,8 @@ jobs:
       - name: Play once and stop (no loop)
         # The snk SVG loops via CSS `... infinite`. Swap it for a single pass
         # that holds the final frame, so the snake runs through once and parks.
-        run: sed -i 's/ infinite/ 1 forwards/g' dist/github-snake-tokyo.svg
+        # `sudo` because the snk Docker action writes dist/ as root
+        run: sudo sed -i 's/ infinite/ 1 forwards/g' dist/github-snake-tokyo.svg
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4

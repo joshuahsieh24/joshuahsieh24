@@ -1,7 +1,7 @@
 <!-- ════════════════════════ HEADER ════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&height=64&lines=Hi%2C+I'm+Joshua+Hsieh+%E2%9C%A6;CS+%40+San+Jose+State+University;Full-stack+dev+%C2%B7+product-minded+UI;Always+shipping+something" alt="Joshua Hsieh" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&height=64&lines=Hi%2C+I'm+Joshua+Hsieh+%E2%9C%A6;SWE+%40+San+Jose+State+University;Full-stack+dev+%C2%B7+product-minded+UI;Always+shipping+something" alt="Joshua Hsieh" />
 
 <p>
 I build thoughtful software — full-stack, product-minded UI, and projects that solve real problems.<br/>
