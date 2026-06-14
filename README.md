@@ -41,13 +41,15 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 </div>
 
 <!-- ════════════════════════ TROPHIES ════════════════════════ -->
+<!-- Trophies are disabled: the public github-profile-trophy.vercel.app instance is
+     frequently rate-limited (HTTP 402) and renders as a broken image. To re-enable,
+     either wait for the service to recover, or self-host it (see the project's README),
+     then uncomment the block below:
 ## 🏆 Trophies
-
 <div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshuahsieh24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
+-->
 
 <!-- ════════════════════════ SNAKE ════════════════════════ -->
 ## 🐍 Contribution Snake
