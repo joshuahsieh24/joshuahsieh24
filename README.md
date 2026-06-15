@@ -33,12 +33,8 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joshuahsieh24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=7AA2F7&title_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahsieh24&layout=compact&theme=tokyonight&hide_border=true&title_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=joshuahsieh24&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=9ECE6A" alt="GitHub Streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=joshuahsieh24&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=9ECE6A" alt="Total Contributions & Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahsieh24&layout=compact&theme=tokyonight&hide_border=true&title_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
