@@ -80,8 +80,8 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 <!-- ════════════════════════ PIXEL BANNER (very bottom) ════════════════════════ -->
 <div align="center">
 
-<img src="assets/sakura-pixel.gif" width="640" alt="pixel art sakura park" />
+<img src="assets/moonlit-shore.gif" width="340" alt="pixel art moonlit shore" />
 
-<sub><i>thanks for scrolling 🌸</i></sub>
+<sub><i>thanks for scrolling 🌙</i></sub>
 
 </div>
