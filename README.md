@@ -73,8 +73,6 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/output/github-snake-tokyo.svg" />
 </picture>
 
-<sub>🇹🇼</sub>
-
 </div>
 
 <!-- ════════════════════════ PIXEL BANNER (very bottom) ════════════════════════ -->
