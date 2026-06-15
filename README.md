@@ -7,7 +7,7 @@
 
 <p>
 I build thoughtful software — full-stack, product-minded UI, and projects that solve real problems.<br/>
-When I'm away from the keyboard: exploring the world, chasing good food, and sports with friends. 🌏🍜⚽
+When I'm away from the keyboard: exploring the world, chasing good food, and sports with friends. 🌏🍜🏀
 </p>
 
 <a href="mailto:joshua.hsieh@sjsu.edu"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
