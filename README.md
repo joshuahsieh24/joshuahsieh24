@@ -12,7 +12,7 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 
 <a href="mailto:hsiehjoshua424@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" alt="Email"/></a>
 <a href="https://github.com/joshuahsieh24"><img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=BB9AF7" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/joshuahsieh24"><img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/joshua--hsieh/"><img src="https://img.shields.io/badge/LinkedIn-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"/></a>
 <!-- Portfolio badge ready when you have a site:
 <a href="https://YOUR-SITE.com"><img src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=vercel&logoColor=9ECE6A"/></a>
 -->
