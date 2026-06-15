@@ -76,3 +76,12 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 <sub>⚡ Tokyo Night · auto-updating cards · 🇹🇼</sub>
 
 </div>
+
+<!-- ════════════════════════ PIXEL BANNER (very bottom) ════════════════════════ -->
+<div align="center">
+
+<img src="assets/sakura-pixel.gif" width="640" alt="pixel art sakura park" />
+
+<sub><i>thanks for scrolling 🌸</i></sub>
+
+</div>
