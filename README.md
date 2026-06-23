@@ -58,13 +58,6 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 
 </div>
 
-<!-- ════════════════════════ QUOTE ════════════════════════ -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote of the day" />
-
-</div>
-
 <!-- ════════════════════════ SNAKE (bottom) ════════════════════════ -->
 <div align="center">
 
