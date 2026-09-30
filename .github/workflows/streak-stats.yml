@@ -1,0 +1,38 @@
+name: update streak stats
+
+# Pre-render the streak card as a static SVG on the `streak-stats` branch.
+# The README used to hot-link a Vercel-hosted instance; when its edge cache
+# expired the cold PHP function was slower than GitHub's camo image proxy
+# timeout, so the first view showed a broken image until a refresh.
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # four times a day
+  workflow_dispatch:         # run manually from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/streak-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=9ECE6A
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to streak-stats branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: streak-stats

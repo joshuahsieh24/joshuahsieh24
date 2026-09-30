@@ -32,7 +32,8 @@ When I'm away from the keyboard: exploring the world, chasing good food, and spo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats-tan-kappa.vercel.app/?user=joshuahsieh24&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=9ECE6A" alt="Total Contributions & Streak" />
+<!-- Static SVG rendered by .github/workflows/streak-stats.yml (no live endpoint = no cold-start broken image) -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="165" src="https://raw.githubusercontent.com/joshuahsieh24/joshuahsieh24/streak-stats/streak.svg" alt="Total Contributions & Streak" /></a>
 
 </div>
 
